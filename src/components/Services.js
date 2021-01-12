@@ -9,7 +9,7 @@ const Services = () => {
       <h1 className="py-5">my services</h1>
       <div className="container">
         <div className="row">
-          <div className="col-md-3 col-sm-6">
+          <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
               <div className="circle">
                 {" "}
@@ -19,7 +19,7 @@ const Services = () => {
               <p>HTML, CSS, Bootstrap, Javascript, React</p>
             </div>
           </div>
-          <div className="col-md-3 col-sm-6">
+          <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
               <div className="circle">
                 {" "}
@@ -29,7 +29,7 @@ const Services = () => {
               <p>Ruby, NodeJs, ES6, jQuery, SQL, Git & GitHub, Heroku</p>
             </div>
           </div>
-          <div className="col-md-3 col-sm-6">
+          <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
               <div className="circle">
                 {" "}
@@ -39,7 +39,7 @@ const Services = () => {
               <p>Client management, Project management</p>
             </div>
           </div>
-          <div className="col-md-3 col-sm-6">
+          <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
               <div className="circle">
                 {" "}
