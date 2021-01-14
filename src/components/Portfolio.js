@@ -5,7 +5,7 @@ import portfolio from "../images/portfolio.png";
 import taskManager from "../images/task-manager.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearchPlus } from "@fortawesome/free-solid-svg-icons";
-import {PopupboxManager, PopupboxContainer} from "react-popupbox";
+
 
 
 const Portfolio = () => {
