@@ -13,7 +13,7 @@ const AboutMe = () => {
         <div className="col-lg-6 col-xm-12">
           <h1 className="about-heading">about me</h1>
           <p>
-            I am a junior full-stack web developer based in Oakville, Ontario,
+            I am a junior full-stack web developer based in Burlington, Ontario,
             Canada. After working for the provincial gouvernment for 3 years as
             a customer service agent, I have decided to reconvert into a web
             developer by following 9 weeks coding bootcamp. I have a background

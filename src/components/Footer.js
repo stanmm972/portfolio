@@ -1,5 +1,6 @@
 import React from 'react';
 import {FacebookShareButton, FacebookIcon, TwitterShareButton, TwitterIcon, LinkedinShareButton, LinkedinIcon} from "react-share";
+import {Link} from "react-scroll";
 
 const Footer = () => {
     return (
@@ -20,16 +21,16 @@ const Footer = () => {
                     <div className="col-lg-3 col-md-2 col-sm-6">
                         <div className="row">
                             <div className="col">
-                                <a className="footer-nav" href="">Home</a>
+                                <Link smooth={true} to="home" offset={-110} className="footer-nav" href="/#">Home</Link>
                                 <br/>
-                                <a className="footer-nav" href="">About me</a>
+                                <Link smooth={true} to="about" offset={-110} className="footer-nav" href="/#">About me</Link>
                                 <br/>
-                                <a className="footer-nav" href="">Experience</a>
+                                <Link smooth={true} to="experience" offset={-110} className="footer-nav" href="/#">Experience</Link>
                             </div>
                             <div className="col">
-                                <a className="footer-nav" href="">Portfolio</a>
+                                <Link smooth={true} to="portfolio" offset={-110} className="footer-nav" href="/#">Portfolio</Link>
                                 <br/>
-                                <a className="footer-nav" href="">Contact</a>
+                                <Link smooth={true} to="contact" offset={-110} className="footer-nav" href="/#">Contact</Link>
                             </div>
                         </div>
                     </div>
@@ -59,7 +60,7 @@ const Footer = () => {
                         </div>
                         <p className="pt-3 text-center">
                             Copyright©  
-                            - {new Date().getFullYear()} - FMM | All Rights Reserved
+                            - {new Date().getFullYear()} - FMM | All Rights Reserved.
                         </p>
                     </div>
                 </div>
