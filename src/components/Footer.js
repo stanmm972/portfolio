@@ -9,7 +9,7 @@ const Footer = () => {
                 <div className="row">
                     <div className="col-lg-4 col-md-6 col-sm-6">
                         <div className="d-flex">
-                            <p>city Burlington</p>
+                            <p>Burlington, Ontario, Canada</p>
                         </div>
                         <div className="d-flex">
                             <a href="tel: 514-638-0000">+1-514-638-0000</a>
@@ -34,8 +34,8 @@ const Footer = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-5 col-md-5 col-sm-6align-items-center">
-                        <div className="dflex justify-content-center">
+                    <div className="col-lg-5 col-md-5 col-sm-6 align-items-center">
+                        <div className="d-flex justify-content-center">
                             <FacebookShareButton
                             url={"https://www.facebook.com"}
                             quote={"Fullstack Developer Junior"}
