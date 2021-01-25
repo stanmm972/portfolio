@@ -10,79 +10,61 @@ const Experience = () => {
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2014-2015</h3>
+            <h3>2020 - Present</h3>
+            <h4>Computer technician</h4>
+            <h5>Barreau du Québec, Montréal QC (remote)</h5>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae
-              rerum aliquid iure? Reiciendis esse impedit vero quam fugit
-              ducimus hic eveniet expedita, voluptatem veritatis, tempore
-              explicabo soluta ipsum? Voluptatibus, doloremque? Aliquam numquam
-              qui non quia soluta repellat ullam incidunt suscipit.
+              Ensure the reliability of the platform during virtual trainings
+              and act as a facilitator by working closely with the trainers.
+              Present the material in the different training platforms and
+              technically support the speakers and participants. Testing of the
+              virtual environment and solving all technical issues.
             </p>
           </div>
         </div>
         <div className="timeline-block timeline-block-left">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2015-2016</h3>
+            <h3>2020-Present</h3>
+            <h4>Full stack developer</h4>
+            <h5>SPH Contre le cancer, Burlington ON</h5>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae
-              rerum aliquid iure? Reiciendis esse impedit vero quam fugit
-              ducimus hic eveniet expedita, voluptatem veritatis, tempore
-              explicabo soluta ipsum? Voluptatibus, doloremque? Aliquam numquam
-              qui non quia soluta repellat ullam incidunt suscipit.
+              Develop full-stack web applications which process, analyze, and
+              render data visually.
             </p>
           </div>
         </div>
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2016-2017</h3>
+            <h3>2016-2019</h3>
+            <h4>Customer service representative</h4>
+            <h5>Bureau de la sécurité privé, Montréal QC</h5>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae
-              rerum aliquid iure? Reiciendis esse impedit vero quam fugit
-              ducimus hic eveniet expedita, voluptatem veritatis, tempore
-              explicabo soluta ipsum? Voluptatibus, doloremque? Aliquam numquam
-              qui non quia soluta repellat ullam incidunt suscipit.
+              Point of contact for customers to obtain licenses in various
+              security fields.
             </p>
           </div>
         </div>
         <div className="timeline-block timeline-block-left">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2017-2018</h3>
+            <h3>2013-2016</h3>
+            <h4>Shop supervisor</h4>
+            <h5>Vinci Park Canada, Montréal QC</h5>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae
-              rerum aliquid iure? Reiciendis esse impedit vero quam fugit
-              ducimus hic eveniet expedita, voluptatem veritatis, tempore
-              explicabo soluta ipsum? Voluptatibus, doloremque? Aliquam numquam
-              qui non quia soluta repellat ullam incidunt suscipit.
+              Supervise general operations and resolve customer complaints.
+              Training of new employees.
             </p>
           </div>
         </div>
         <div className="timeline-block timeline-block-right">
           <div className="marker"></div>
           <div className="timeline-content">
-            <h3>2018-2019</h3>
-            <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae
-              rerum aliquid iure? Reiciendis esse impedit vero quam fugit
-              ducimus hic eveniet expedita, voluptatem veritatis, tempore
-              explicabo soluta ipsum? Voluptatibus, doloremque? Aliquam numquam
-              qui non quia soluta repellat ullam incidunt suscipit.
-            </p>
-          </div>
-        </div>
-        <div className="timeline-block timeline-block-left">
-          <div className="marker"></div>
-          <div className="timeline-content">
-            <h3>2019-2020</h3>
-            <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae
-              rerum aliquid iure? Reiciendis esse impedit vero quam fugit
-              ducimus hic eveniet expedita, voluptatem veritatis, tempore
-              explicabo soluta ipsum? Voluptatibus, doloremque? Aliquam numquam
-              qui non quia soluta repellat ullam incidunt suscipit.
-            </p>
+            <h3>2011-2013</h3>
+            <h4>Management supervisor</h4>
+            <h5>Discount Car & Truck rentals, Montréal QC</h5>
+            <p>Organize the branch fleet and ensure smooth daily operations.</p>
           </div>
         </div>
       </div>
