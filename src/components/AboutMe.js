@@ -12,7 +12,7 @@ const AboutMe = () => {
         </div>
         <div className="col-lg-6 col-xm-12">
           <h1 className="about-heading">about me</h1>
-          <p>
+          <p className="text-about">
             I am a junior full-stack web developer based in Burlington, Ontario,
             Canada. After working for the provincial gouvernment for 3 years as
             a customer service agent, I have decided to reconvert into a web
