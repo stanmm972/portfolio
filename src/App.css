@@ -32,8 +32,18 @@ nav {
   width: 6.25rem;
 }
 
+.logo_w {
+  width: 6.25rem;
+}
+
 .bg-custom-grey {
   background-color: #47555e !important;
+  transition: 1s ease-in-out;
+}
+
+.bg-custom-light {
+  background-color: var(--primary-light-grey) !important;
+  transition: 1s ease-in-out
 }
 
 /********************************* MENU LINKS *******************************/
@@ -53,8 +63,13 @@ nav ul li {
   margin-right: 0.75rem;
   margin-left: 0.75rem;
   color: var(--primary-white) !important;
-  border-top: 0.1875rem solid var(--primary-grey-nav);
+  border-top: 0.1875rem solid transparent;
 }
+
+.nav_sp > li > a {
+  color: var(--primary-black) !important;
+  border-top: 00.1875rem solid transparent;
+} 
 
 .navbar-brand {
   max-width: 17.25rem;
@@ -70,6 +85,13 @@ nav ul li {
   border-top: 0.1875rem solid var(--primary-orange);
 }
 
+.nav_sp> li > a.active, .nav_sp> li > a:focus {
+  border-top: 0.1875rem solid var(--primary-red);
+}
+
+.nav_sp> li > a:hover {
+  border-top: 0.1875rem solid var(--primary-red);
+}
 
 /********************************* HEADER *******************************/
 
